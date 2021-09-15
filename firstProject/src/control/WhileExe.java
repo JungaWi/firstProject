@@ -16,7 +16,7 @@ public class WhileExe {
 		int i2 = 0;
 		while (i2<=10) {
 			i2++;
-			if (i2%2==0) {
+			if (i2%2==0) { 
 				System.out.println(i2);
 	
 				

@@ -7,7 +7,7 @@ public class DoWhileExe {
 		
 		// 1~10까지 출력
 		//끝1.
-		int i = 1;
+		int i = 1; 
 		do {
 			System.out.println(i);
 			i++;

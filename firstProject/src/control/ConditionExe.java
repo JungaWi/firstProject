@@ -5,7 +5,7 @@ public class ConditionExe {
 		//두 정수 60, 70
 		//두 수를 합한 결과 100점 넘어서면 합격, 불합격
 		//끝.
-				
+				 
 		int num1 = 60;
 		int num2 = 70;
 		int result = num1 + num2;				

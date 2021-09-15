@@ -13,7 +13,7 @@ public class WhileExample {
 		while(true) {
 			cnt = (int) (Math.random() * 10) + 1;
 			System.out.println(cnt);
-			if (cnt == 8) {
+			if (cnt == 8) { 
 //				run = false;
 				break;
 			}

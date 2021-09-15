@@ -13,7 +13,7 @@ public class ForExample {
 		cnt += 1;
 		System.out.printf("cnt: %d\n", cnt);
 		
-		cnt += 1;
+		cnt += 1; 
 		System.out.printf("cnt: %d\n", cnt);
 		System.out.println("--´Ù½Ã--");
 				cnt = 0;

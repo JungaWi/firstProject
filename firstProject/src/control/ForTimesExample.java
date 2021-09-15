@@ -9,7 +9,7 @@ public class ForTimesExample {
 			System.out.printf(" %d * %d = %d \n", row, i, (row *i));
 		}
 
-
+ 
 	}
 
 }

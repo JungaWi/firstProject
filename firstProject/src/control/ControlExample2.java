@@ -19,7 +19,7 @@ public class ControlExample2 {
 			break;
 		default:
 			System.out.println("Ω«∏¡¿‘¥œ¥Ÿ!!");			
-		}
+		} 
 		
 		switch (inputValue) {
 		case "A":
